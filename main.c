@@ -28,10 +28,10 @@ int main(){
                 TimeDay();
             break;
             case 2:
-                system("start C:\\Users\\funki\\Desktop\\cloack\\timer.exe");
+                system("start C:\\..\\..\\..\\cloack\\timer.exe"); //your path of repository
             break;
             case 3:
-                system("start C:\\Users\\funki\\Desktop\\cloack\\countdown.exe");
+                system("start C:\\..\\..\\..\\cloack\\countdown.exe");
             break;
             case 4:
                 return 0;
